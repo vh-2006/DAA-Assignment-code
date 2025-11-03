@@ -1,0 +1,4 @@
+Dynamic Programming Max Utility: 235
+Greedy Approx Utility: 235
+Truck 1 max utility: 190
+Truck 2 max utility: 190
