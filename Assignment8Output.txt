@@ -1,0 +1,4 @@
+Greedy Coloring Slots: 3
+Welsh-Powell Slots: 3
+DSATUR Slots: 3
+All exams fit in available classrooms.
