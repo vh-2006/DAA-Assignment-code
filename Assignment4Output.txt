@@ -1,0 +1,6 @@
+Shortest path to hospital 3 (time: 9 mins): 0 2 4 3 
+Shortest path to hospital 5 (time: 7 mins): 0 2 4 5
+
+After traffic update:
+Shortest path to hospital 3 (time: 14 mins): 0 1 3
+Shortest path to hospital 5 (time: 14 mins): 0 2 4 5
