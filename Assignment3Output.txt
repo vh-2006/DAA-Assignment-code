@@ -1,0 +1,5 @@
+Taken Fully : Medicine Kit
+Taken Fully : Food Packets
+Taken Fully : Blankets
+Taken Fraction : 16.6667% of item : Drinking Water
+Maximum utility value : 991.667
